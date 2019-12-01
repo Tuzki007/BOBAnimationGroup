@@ -17,6 +17,9 @@ BOBLoadingGroupStarSub4类
 BOBLoadingNieDiamondView类
 ![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLoadingNieDiamondViewGif.gif)
 
+BOBLoadingFiveBallMove类
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLoadingFiveBallMoveGIF.gif)
+
 BOBLoadingThreeBallView类
 ![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLoadingThreeBallViewGIF.gif)
 
@@ -47,8 +50,6 @@ BOBLightBlueLoading5类
 BOBLoadingEightArcView类
 ![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLoadingEightArcViewGIF.gif)
 
-BOBLoadingFiveBallMove类
-![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLoadingFiveBallMoveGIF.gif)
 
 
 
