@@ -8,8 +8,27 @@ Big Orange Brother loading animation group
 ![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLightBlueLoading1GIF.gif)
 
 
+![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLightBlueLoading2GIF.gif)
 
+![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLightBlueLoading3GIF.gif)
 
+![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLightBlueLoading4GIF.gif)
+
+![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLightBlueLoading5GIF.gif)
+
+![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLoadingEightArcViewGIF.gif)
+
+![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLoadingFiveBallMoveGIF.gif)
+
+![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLoadingGroupStarSub4GIF.gif)
+
+![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLoadingNieDiamondViewGif.gif)
+
+![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLoadingThreeBallViewGIF.gif)
+
+![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBSevenBallLoading2GIF.gif)
+
+![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBThreeBallLoading1GIF.gif)
 
 
 
