@@ -7,15 +7,13 @@ Big Orange Brother loading animation group
 
 ![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading4GIF.gif)
 
-![image]( https://github.com/ljheee/HexTransform/blob/master/abc.jpg)
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading1GIF.gif)
 
-![image]( https://github.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading1GIF.gif)
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading2GIF.gif)
 
-![image]( https://github.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading2GIF.gif)
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading3GIF.gif)
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading3GIF.gif)
-
-![image](https://github.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading4GIF.gif)
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading4GIF.gif)
 
 ![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLightBlueLoading5GIF.gif)
 
