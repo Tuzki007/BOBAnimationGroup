@@ -9,11 +9,11 @@ Big Orange Brother loading animation group
 
 ![image](https://github.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading1GIF.gif)
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLightBlueLoading2GIF.gif)
+![image](https://github.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading2GIF.gif)
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLightBlueLoading3GIF.gif)
+![image](https://github.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading3GIF.gif)
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLightBlueLoading4GIF.gif)
+![image](https://github.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading4GIF.gif)
 
 ![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLightBlueLoading5GIF.gif)
 
