@@ -15,21 +15,21 @@ Big Orange Brother loading animation group
 
 ![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading4GIF.gif)
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLightBlueLoading5GIF.gif)
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading5GIF.gif)
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLoadingEightArcViewGIF.gif)
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLoadingEightArcViewGIF.gif)
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLoadingFiveBallMoveGIF.gif)
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLoadingFiveBallMoveGIF.gif)
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLoadingGroupStarSub4GIF.gif)
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLoadingGroupStarSub4GIF.gif)
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLoadingNieDiamondViewGif.gif)
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLoadingNieDiamondViewGif.gif)
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLoadingThreeBallViewGIF.gif)
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLoadingThreeBallViewGIF.gif)
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBSevenBallLoading2GIF.gif)
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBSevenBallLoading2GIF.gif)
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBThreeBallLoading1GIF.gif)
+![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBThreeBallLoading1GIF.gif)
 
 
 
