@@ -5,7 +5,7 @@ Big Orange Brother loading animation group
 
 若想定制可以联系邮箱zhangxingcheng007@163.com（支持邮件回复，不加好友，如有代码支持需要联系我邮箱就可以了）
 
-BOBLoadingGroupSub3类
+BOBLoadingGroupSub3类\n
 ![image](https://raw.githubusercontent.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLoadingGroupSub3GIF.gif)
 
 BOBLoadingFiveBallMove类
