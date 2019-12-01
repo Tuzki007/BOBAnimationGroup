@@ -1,0 +1,30 @@
+//
+//  BOBPchHeader.pch
+//  BOBAnimationGroup
+//
+//  Created by Orange on 2019/11/17.
+//  Copyright © 2019 张兴程. All rights reserved.
+//
+
+#ifndef BOBPchHeader_pch
+#define BOBPchHeader_pch
+
+#import "BOBLoadingTool.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#ifdef __OBJC__
+
+//屏幕的宽度和高度
+#define kScreenWidth [[UIScreen mainScreen] bounds].size.width
+#define kScreenHeight [[UIScreen mainScreen] bounds].size.height
+
+//BOB浅蓝色
+#define kBOBLightBlueColor [UIColor colorWithRed:135.0/255.0 green:176.0/255.0 blue:245.0/255.0 alpha:1.0f]
+//BOB军绿色
+#define kBOBArmyGreenColor [UIColor colorWithRed:58.0/255.0 green:71.0/255.0 blue:78.0/255.0 alpha:1.0f];
+
+#endif
+
+#endif /* BOBPchHeader_pch */
