@@ -5,7 +5,7 @@ Big Orange Brother loading animation group
 
 若想定制可以联系邮箱282187892@qq.com（支持邮件回复，不加好友，如有代码支持需要联系我邮箱就可以了）
 
-![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/master/BOBLightBlueLoading1GIF.gif)
+![image](https://github.com/Tuzki007/BOBAnimationGroup/master/BOBAnimationGroup/BOBLightBlueLoading1GIF.gif)
 
 ![image](https://github.com/Tuzki007/BOBAnimationGroup/BOBAnimationGroup/BOBLightBlueLoading2GIF.gif)
 
